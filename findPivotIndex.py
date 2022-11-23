@@ -6,4 +6,4 @@ def pivotIndex(nums):
             return index
         else:
             leftSumValue += element
-    return -1
+    return "-1"
