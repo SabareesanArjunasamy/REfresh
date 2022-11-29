@@ -1,4 +1,4 @@
-def pivotIndex(nums):
+def PivotIndex(nums):
     totalValue = sum(nums)
     leftSumValue = 0
     for index, element in enumerate(nums):
